@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Bonjour 👋 Je suis Lucas 👨‍💻
+  Bonjour 👋 Je suis <span style="color:blue">Lucas</span> 👨‍💻
 </h1>
 
 <p align='center'>
