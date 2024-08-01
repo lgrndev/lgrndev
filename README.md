@@ -35,7 +35,10 @@
 
    
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![ExpressJS](https://img.shields.io/badge/ExpressJS%20-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
     ![Dart](https://img.shields.io/badge/Dart%20-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+  ![Mongoose](https://img.shields.io/badge/Mongoose%20-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB%20-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br>
 
