@@ -1,11 +1,19 @@
 <div align='center'><h1>
   Bonjour 👋 Je suis Lucas 👨‍💻
 </h1>
+
+
+
+
+
 <p>
   Etudiant en Physique à l'Université Claude Bernard Lyon1. <br>
-  Principalement Front-end, j'ai des compétences en DataScience avec <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">.
+  Développeur full stack, j'ai des compétences en DataScience avec <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">.
 </p>
 
+<a href="https://lucaslangrand.fr" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Mon%20Portfolio-ffffff?style=for-the-badge&logo=portfolio&logoColor=white" alt="Mon portfolio">
+</a>
 
 </div>
 
