@@ -50,21 +50,19 @@
 
 <br>
 
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-    ![VPS](https://img.shields.io/badge/VPS-%2300A1D6.svg?style=for-the-badge&logo=linux&logoColor=white)
-    
-<br>
-
 - **Logiciels et Outils**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+    ![VPS](https://img.shields.io/badge/VPS-%2300A1D6.svg?style=for-the-badge&logo=linux&logoColor=white)
+  ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=AdobePhotoshop&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-%239999FF.svg?style=for-the-badge&logo=AdobeAfterEffects&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-%239999FF.svg?style=for-the-badge&logo=AdobePremierePro&logoColor=white)
+
 
 <br>
 
