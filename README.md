@@ -7,8 +7,7 @@
 
 
 <p>
-  Etudiant en Physique à l'Université Claude Bernard Lyon1. <br>
-  Développeur full stack, j'ai des compétences en DataScience avec <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">.
+  Etudiant ingénieur chez INP-PHELMA en Physique, Electronique, Telecom (PET). <br>
 </p>
 
 <a href="https://lucaslangrand.fr" target="_blank" rel="noopener noreferrer">
