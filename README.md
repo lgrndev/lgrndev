@@ -10,7 +10,7 @@
   Etudiant ingénieur chez INP-PHELMA en Physique, Electronique, Telecom (PET). <br>
 </p>
 
-<a href="https://lucaslangrand.fr" target="_blank" rel="noopener noreferrer">
+<a href="[https://lucaslangrand.fr](https://lgrndev.github.io/lucaslangrand/)" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Mon%20Portfolio-ffffff?style=for-the-badge&logo=portfolio&logoColor=white" alt="Mon portfolio">
 </a>
 
