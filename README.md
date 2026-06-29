@@ -9,8 +9,16 @@
 <a href="https://lgrndev.github.io/lucaslangrand/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Mon%20Portfolio-ffffff?style=for-the-badge&logo=portfolio&logoColor=white" alt="Mon portfolio">
 </a>
+<br>
+
+<p>
+<img src="https://www.codewars.com/users/luzai/badges/small" />
+</p>
 
 </div>
+
+
+
 
 ## <b> Skills</b>
 <br>
@@ -19,11 +27,8 @@
 
 - **Languages**:
     
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![C/C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![MATLAB](https://img.shields.io/badge/MATLAB-%23FF6F00.svg?style=for-the-badge&logo=mathworks&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![Dart](https://img.shields.io/badge/Dart%20-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 <br>   
     
@@ -38,8 +43,8 @@
 - **Développement Web & Frameworks**:
 
     ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-    ![ExpressJS](https://img.shields.io/badge/ExpressJS%20-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+    ![Angular](https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+    ![Next.js](https://img.shields.io/badge/Next.js%20-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 <br>   
     
@@ -51,13 +56,6 @@
 
 <br>
 
-- **Base de données**:
-
-    ![Mongoose](https://img.shields.io/badge/Mongoose%20-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
-    ![MongoDB](https://img.shields.io/badge/MongoDB%20-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<br>
-
 - **Logiciels et Outils**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -66,6 +64,7 @@
     ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
     ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
     ![VPS](https://img.shields.io/badge/VPS-%2300A1D6.svg?style=for-the-badge&logo=linux&logoColor=white)
+    ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 <br>
 
@@ -81,10 +80,9 @@
 - **Extras**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
     ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
     ![Arduino](https://img.shields.io/badge/arduino-%23054020?style=for-the-badge&logo=arduino&logoColor=white)  
-    ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+    
 
 </p>
 
@@ -104,3 +102,5 @@
 <img src="https://img.shields.io/badge/mail:  lucaslangrand@icloud.com-%23EA4335.svg?style=for-the-badge&logo=icloud&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </p>
+
+
